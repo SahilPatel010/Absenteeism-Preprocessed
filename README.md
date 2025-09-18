@@ -42,8 +42,7 @@ The Jupyter Notebook (`Absenteeism (1).ipynb`) in this repository details the fo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    ```
+    ```git clone https://github.com/SahilPatel010/Absenteeism-Preprocessed.git
 2.  **Open the Jupyter Notebook:**
     * Navigate to the project folder and open `Absenteeism (1).ipynb` using Jupyter Notebook or JupyterLab to see the full code and step-by-step process.
 3.  **View the Data:**
